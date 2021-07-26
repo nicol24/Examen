@@ -1,0 +1,28 @@
+body{
+   margin: 0%;
+   border: 0px;
+   padding: 0%;
+
+    
+}
+.conteiner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(-90deg, #033859, #0F9FBF);
+    display: flex;
+}
+.tarjeta{
+    width: 50em;
+    height: 20em;
+    padding-left: 8em;
+    background-color: #033859 ;
+    display: flex;
+    justify-content: center;
+}
+}
+.title header{
+    font-size: 16em;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
